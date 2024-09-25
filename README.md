@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ankitgupta143/ShadowFox.git
+    git clone https://github.com/ankitgupta143/InfoTech_Tasks/Task1.git
     ```
 
 2. **Navigate to the project directory**:
@@ -84,7 +84,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/https://github.com/ankitgupta143/ShadowFox/multimart-react-ecommerce.git
+$ https://github.com/https://github.com/ankitgupta143/InfoTech_Tasks/Task2.git
 
 # Go into the repository
 $ cd multimart-react-ecommerce
@@ -196,14 +196,7 @@ CLOUDINARY_API_KEY = also for cloudinary.
 CLOUDINARY_API_SECRET = also for cloudinary.
 DOMAIN_URI = (if you're on localhost keep it "localhost", if you will deploy it put the URL).
 
-# Author
 
-👤 &nbsp; **Mohamed Elashmawy**
-
-- Twitter: [@hamohuh](https://twitter.com/hamohuh)
-- Github: [@moelashmawy](https://github.com/moelashmawy)
-- Linkedin: [@moelashmawy](https://www.linkedin.com/in/moelashmawy/)
-- Email: [ashmawy894@gmail.com](mailto:ashmawy894@gmail.com)
 
 ## 📝 &nbsp; License
 
